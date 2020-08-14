@@ -107,6 +107,7 @@ Useful articles and learning resources.
 - [How to learn React.js in 2020 ](https://www.robinwieruch.de/learn-react-js)
 - [How to deploy a create react app to Github pages](https://reactgo.com/deploy-react-app-github-pages/)
 
+
 </details>
 
 <details>
@@ -141,6 +142,8 @@ Useful articles and learning resources.
 - [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
 - [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
+- [Spotify Engineering Blog](https://engineering.atspotify.com/) - Spotify Engineering blog, featuring awesome Engineering posts from the spoify team
+
 </details>
 
 <details>
